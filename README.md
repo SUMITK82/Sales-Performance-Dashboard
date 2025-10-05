@@ -24,7 +24,7 @@ To create an **interactive and data-driven dashboard** that consolidates sales d
 
 ## ⚙️ Solution Overview
 
-This **Sales Dashboard** was built using **Excel (or Power BI)** and a **SalesData.csv** dataset.  
+This **Sales Dashboard** was built using **Excel  and a **SalesData.xlsx** dataset.  
 It visualizes performance metrics through multiple KPIs, charts, and filters for easy exploration.
 
 ### 🔍 Dashboard Features
@@ -74,7 +74,7 @@ Users can filter and interact dynamically with the dashboard to gain deeper insi
 
 ## 📊 Dataset Overview
 
-**File Used:** `SalesData.csv`  
+**File Used:** `SalesData.xlsx`  
 **Contains Columns Like:**
 - `Order Date`, `Category`, `Sub-Category`, `Sales`, `Profit`, `Customer Name`, `State`, `Region`, `Year`  
 
@@ -94,7 +94,6 @@ Users can filter and interact dynamically with the dashboard to gain deeper insi
 - Add **Forecasting Models** to predict next year’s sales and profit  
 - Include **Profit Margin KPIs** by region and category  
 - Automate data refresh using **Power BI Service**  
-- Deploy dashboard to **GitHub Pages / Power BI Cloud**
 
 ---
 
