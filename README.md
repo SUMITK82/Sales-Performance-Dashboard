@@ -24,7 +24,7 @@ To create an **interactive and data-driven dashboard** that consolidates sales d
 
 ## ⚙️ Solution Overview
 
-This **Sales Dashboard** was built using **Excel  and a **SalesData.xlsx** dataset.  
+This **Sales Dashboard** was built using **Excel  and a **SalesData.csv** dataset.  
 It visualizes performance metrics through multiple KPIs, charts, and filters for easy exploration.
 
 ### 🔍 Dashboard Features
@@ -65,7 +65,7 @@ Users can filter and interact dynamically with the dashboard to gain deeper insi
 
 | Tool / Technology | Purpose |
 |--------------------|----------|
-| **Excel | Data visualization and dashboard creation |
+| **Excel (xlsx) | Data visualization and dashboard creation |
 | **CSV Dataset** | Source sales data |
 | **Power Query / Data Model** | Data transformation and cleaning |
 | **Pivot Tables & Charts** | KPI and metric calculation |
@@ -96,6 +96,4 @@ Users can filter and interact dynamically with the dashboard to gain deeper insi
 - Automate data refresh using **Power BI Service**  
 
 ---
-
-## 📎 Repository Structure
 
